@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:C850C0,100:4158D0&height=200&section=header&text=Meshack%20Kiplimo&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20AI&descSize=20&descAlignY=55" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Meshack Kiplimo</h1>
+<h1 align="center">Hi , I'm Meshack Kiplimo</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+%F0%9F%9A%80;Python+%26+Django+Developer+%F0%9F%90%8D;Data+Science+Student+%F0%9F%93%8A;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+CareerNext+%F0%9F%8E%93;Always+Learning+New+Technologies+%E2%9C%A8" />
@@ -26,7 +26,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-4158D0?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:limomeshk@gmail.com">
+  <a href="mailto:meshacklimok@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -37,7 +37,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:C850C0,100:4158D0&height=3" width="100%" />
 
-## 🚀 About Me
+## About Me
 
 I'm a **Data Science student** passionate about building software that solves real-world problems.
 I enjoy combining **Python**, **Django**, and **Data Science** to create practical applications that make a difference.
@@ -89,7 +89,7 @@ I enjoy combining **Python**, **Django**, and **Data Science** to create practic
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:C850C0,100:4158D0&height=3" width="100%" />
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=meshacklimok&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=C084FC&icon_color=C850C0&text_color=9CA3AF" />
@@ -151,31 +151,31 @@ I enjoy combining **Python**, **Django**, and **Data Science** to create practic
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:C850C0,100:4158D0&height=3" width="100%" />
 
-## 🤝 Let's Build Something Amazing
+##  Let's Build Something Amazing
 
 I'm always interested in collaborating on projects involving **Python**, **Django**, **AI**, **Machine Learning**, **Data Science**, **Backend Development**, and **Education Technology**.
 
 If you like my work:
 
-⭐ Star my repositories &nbsp;•&nbsp; 🍴 Fork a project &nbsp;•&nbsp; 💡 Open an issue &nbsp;•&nbsp; 🤝 Collaborate with me
+ Star my repositories &nbsp;•&nbsp; 🍴 Fork a project &nbsp;•&nbsp; 💡 Open an issue &nbsp;•&nbsp; Collaborate with me
 
 <p align="center">
   <a href="https://github.com/meshacklimok">
     <img src="https://img.shields.io/badge/GitHub-meshacklimok-8E2DE2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-C850C0?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/meshacklimok">
+    <img src="https://img.shields.io/badge/LinkedIn-meshacklimok-C850C0?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Kaggle-Coming_Soon-4158D0?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-meshacklimo-4158D0?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="mailto:limomeshk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-meshacklimok-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  ⭐ <b>Thanks for visiting my profile — Happy Coding!</b> 🚀
+  <b>Thanks for visiting my profile — Happy Coding</b> 
 </p>
 
 <p align="center">
