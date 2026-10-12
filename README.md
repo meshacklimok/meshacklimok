@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://mllabz.com"><img src="https://img.shields.io/badge/MLLabz-111111?style=flat-square&logo=cloudflare&logoColor=white" /></a>
   <a href="https://www.careernext.co.ke"><img src="https://img.shields.io/badge/CareerNext-111111?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://app.nyumbapms.com"><img src="https://img.shields.io/badge/NyumbaPMS-111111?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/meshacklimok"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:limomeshk@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=meshacklimok&label=Views&color=111111&style=flat-square" />
@@ -27,7 +28,7 @@ I write down what I build and why. Decisions, problem briefs, and experiments ar
 **Right now I'm:**
 
 - Growing **CareerNext**, a live career guidance platform for Kenyan KCSE students
-- Building **NyumbaPMS**, a rent and property-management system for Kenyan landlords
+- Building **[NyumbaPMS](https://app.nyumbapms.com)**, a rent and property-management system for Kenyan landlords
 - Running **MLLabz Lab**, where I publish small, reproducible data experiments
 - Learning Docker, cloud deployment, and applied machine learning
 
@@ -39,7 +40,7 @@ I write down what I build and why. Decisions, problem briefs, and experiments ar
 |:--|:--|:--|
 | **[MLLabz](https://mllabz.com)** | Company website with a Lab of data experiments, case studies, and an Insights section, plus an admin dashboard for publishing. Hosted on Cloudflare Workers. | Next.js, React, TypeScript, Tailwind, MDX, Keystatic |
 | **[CareerNext](https://www.careernext.co.ke)** | Live platform where students calculate KCSE cluster points, find courses they qualify for across universities, KMTCs, TVETs and TTCs, and get AI career guidance. Includes mentorship booking and M-Pesa payments. | Django, PostgreSQL, M-Pesa STK Push, OpenAI |
-| **NyumbaPMS** | Property management for Kenyan landlords: leases, tenants, rent ledgers, M-Pesa Paybill reconciliation, meter readings, maintenance, e-signing, and reports. Built and tested, in prototype and not yet deployed. | Django, PostgreSQL, M-Pesa Daraja |
+| **[NyumbaPMS](https://app.nyumbapms.com)** | Property management for Kenyan landlords: leases, tenants, rent ledgers, M-Pesa Paybill reconciliation, meter readings, maintenance, e-signing, and reports. | Django, PostgreSQL, M-Pesa Daraja |
 | **E-commerce stores** | Storefronts with accounts, carts, and M-Pesa checkout, including a mini version with a help centre. | Django, M-Pesa |
 | **MediaHub** | Role-based media sharing for teachers, students, and admins, with cloud media storage. | Django, Cloudinary |
 | **Weather Detector** | Weather lookup web app. | Django |
