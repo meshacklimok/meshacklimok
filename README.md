@@ -31,6 +31,7 @@ I write down what I build and why. Decisions, problem briefs, and experiments ar
 - Building **[NyumbaPMS](https://app.nyumbapms.com)**, a rent and property-management system for Kenyan landlords
 - Running **MLLabz Lab**, where I publish small, reproducible data experiments
 - Learning Docker, cloud deployment, and applied machine learning
+- Earning certifications in data analytics, ML, and cloud
 
 <br />
 
@@ -59,40 +60,24 @@ Short write-ups with the code and data behind every number.
 
 ### Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,ts,js,react,nextjs,tailwind,html,css,bootstrap&theme=dark" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,cloudflare,anaconda&theme=dark" />
-</p>
+| | |
+|:--|:--|
+| **Backend** | Python, Django, PostgreSQL, M-Pesa Daraja |
+| **Frontend** | Next.js, React, TypeScript, Tailwind, MDX |
+| **Data & ML** | NumPy, Pandas, Matplotlib, scikit-learn |
+| **Platform** | Cloudflare Workers, Cloudinary, Git & GitHub |
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-111111?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,ts,react,nextjs,tailwind,cloudflare,git,github&theme=dark" />
 </p>
-
-<br />
-
-### Focus
-
-- Grow CareerNext to serve more students across Kenya
-- Pilot NyumbaPMS with real landlords after interviewing them first
-- Publish more Lab experiments and Insights articles
-- Earn certifications in data analytics, ML, and cloud
 
 <br />
 
 ### Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meshacklimok&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B949E&icon_color=8B949E&text_color=8B949E&hide_title=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshacklimok&layout=compact&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=8B949E" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=meshacklimok&hide_border=true&background=00000000&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E&stroke=30363D" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meshacklimok&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B949E&icon_color=8B949E&text_color=8B949E&hide_title=true&include_all_commits=true&hide=issues&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshacklimok&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=8B949E&hide=jupyter%20notebook" />
 </p>
 
 <br />
