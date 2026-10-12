@@ -1,17 +1,18 @@
 <h1 align="center">Meshack Kiplimo</h1>
 
 <p align="center">
-  <b>Data Science Student &nbsp;·&nbsp; Python &amp; Django Developer &nbsp;·&nbsp; Building CareerNext</b>
+  <b>Founder, MLLabz &nbsp;·&nbsp; Data Science Student &nbsp;·&nbsp; Python, Django &amp; Next.js Developer</b>
 </p>
 
 <p align="center">
-  I build software that turns data into practical, real-world tools.
+  I build software that turns data into practical, real-world tools for Kenya.
 </p>
 
 <p align="center">
+  <a href="https://mllabz.com"><img src="https://img.shields.io/badge/MLLabz-111111?style=flat-square&logo=cloudflare&logoColor=white" /></a>
+  <a href="https://www.careernext.co.ke"><img src="https://img.shields.io/badge/CareerNext-111111?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/meshacklimok"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:limomeshk@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/meshacklimok"><img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=meshacklimok&label=Views&color=111111&style=flat-square" />
 </p>
 
@@ -19,24 +20,49 @@
 
 ### About
 
-I'm a Data Science student who likes shipping things people actually use. Most of my work sits where **Python**, **Django**, and **data** meet: backends, analysis pipelines, and small ML models that solve a specific problem.
+I'm a Data Science student who likes shipping things people actually use. I run **[MLLabz](https://mllabz.com)**, a technology and AI engineering company based in Kenya, and my work sits where **Python**, **Django**, and **data** meet: backends, payment integrations, analysis, and small ML experiments that answer a specific question.
+
+I write down what I build and why. Decisions, problem briefs, and experiments are documented as I go, and I test models against simple baselines before trusting them.
 
 **Right now I'm:**
 
-- Building **CareerNext**, a career guidance platform for students
-- Going deeper on machine learning and applied AI
-- Practicing data structures and algorithms
-- Learning Docker and cloud deployment
+- Growing **CareerNext**, a live career guidance platform for Kenyan KCSE students
+- Building **NyumbaPMS**, a rent and property-management system for Kenyan landlords
+- Running **MLLabz Lab**, where I publish small, reproducible data experiments
+- Learning Docker, cloud deployment, and applied machine learning
+
+<br />
+
+### Projects
+
+| Project | What it does | Built with |
+|:--|:--|:--|
+| **[MLLabz](https://mllabz.com)** | Company website with a Lab of data experiments, case studies, and an Insights section, plus an admin dashboard for publishing. Hosted on Cloudflare Workers. | Next.js, React, TypeScript, Tailwind, MDX, Keystatic |
+| **[CareerNext](https://www.careernext.co.ke)** | Live platform where students calculate KCSE cluster points, find courses they qualify for across universities, KMTCs, TVETs and TTCs, and get AI career guidance. Includes mentorship booking and M-Pesa payments. | Django, PostgreSQL, M-Pesa STK Push, OpenAI |
+| **NyumbaPMS** | Property management for Kenyan landlords: leases, tenants, rent ledgers, M-Pesa Paybill reconciliation, meter readings, maintenance, e-signing, and reports. Built and tested, in prototype and not yet deployed. | Django, PostgreSQL, M-Pesa Daraja |
+| **E-commerce stores** | Storefronts with accounts, carts, and M-Pesa checkout, including a mini version with a help centre. | Django, M-Pesa |
+| **MediaHub** | Role-based media sharing for teachers, students, and admins, with cloud media storage. | Django, Cloudinary |
+| **Weather Detector** | Weather lookup web app. | Django |
+
+<br />
+
+### From the MLLabz Lab
+
+Short write-ups with the code and data behind every number.
+
+- **How predictable are KUCCPS degree cutoffs?** Tests CareerNext's prediction against a "same as last year" baseline, on 2,178 programmes across 2021 to 2025.
+- **Fill prediction and cutoff models.** Logistic regression ranks which programmes fill better than the live rule, and ridge regression lands closer on cutoffs. Neither is shipped until it clearly beats what is live.
+- **Paybill reference matching.** Which typing mistakes in an M-Pesa account number are absorbed, sent to review, or credited to the wrong tenant, tested on synthetic data.
 
 <br />
 
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,js,html,css,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,ts,js,react,nextjs,tailwind,html,css,bootstrap&theme=dark" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,anaconda&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,cloudflare,anaconda&theme=dark" />
 </p>
 
 <p>
@@ -48,22 +74,11 @@ I'm a Data Science student who likes shipping things people actually use. Most o
 
 <br />
 
-### Projects
+### Focus
 
-| Project | What it does | Built with |
-|:--|:--|:--|
-| **CareerNext** | Helps students explore courses, calculate cluster points, and make informed academic decisions. | Django, Bootstrap, PostgreSQL |
-| **Portfolio** | Personal site showcasing projects, skills, and experience. | HTML, CSS, JavaScript |
-| **Data Science** | Data analysis, visualization, and exploratory work on real datasets. | Python, Pandas, NumPy |
-| **Machine Learning** | Models and experiments aimed at practical problems. | Python, scikit-learn |
-
-<br />
-
-### 2026 Focus
-
-- Grow CareerNext to serve thousands of students
-- Ship AI-powered applications end to end
-- Contribute to open source consistently
+- Grow CareerNext to serve more students across Kenya
+- Pilot NyumbaPMS with real landlords after interviewing them first
+- Publish more Lab experiments and Insights articles
 - Earn certifications in data analytics, ML, and cloud
 
 <br />
