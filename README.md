@@ -82,7 +82,9 @@ Short write-ups with the code and data behind every number.
 
 <br />
 
+<p>hello techies</p>
+
 <p align="center">
-  Open to collaborating on Python, Django, data, and EdTech projects.<br />
+  Open to collaborating on Python, Django, data, and any other projects.<br />
   Reach me at <a href="mailto:limomeshk@gmail.com">limomeshk@gmail.com</a>.
 </p>
